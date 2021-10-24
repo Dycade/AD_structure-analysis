@@ -1,3 +1,5 @@
 # AD_structure-analysis
-# Guochao Sun
-# Unversity of Adelaide
+
+Guochao Sun
+
+Unversity of Adelaide
